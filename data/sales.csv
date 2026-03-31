@@ -1,0 +1,5 @@
+order_id,customer_name,product,quantity,price,order_date
+1,Aya,Laptop,1,800,2026-03-01
+2,Sara,Mouse,2,20,2026-03-02
+3,Ali,Keyboard,1,50,2026-03-03
+4,Omar,Monitor,2,200,2026-03-04
